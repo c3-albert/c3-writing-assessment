@@ -12,3 +12,10 @@ This assignment evaluates your ability to edit and improve technical content. Yo
 4. Email us when you're done!
 
 Good luck!
+
+## Things to look out for
+
+* Headings and topic layout should be in a good format
+* Headings should be in sentence case
+* Lists should be formatted correctly
+* Use present tense when possible
