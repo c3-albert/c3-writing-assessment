@@ -1,12 +1,12 @@
 ### Using Git Rebase
 
-### Why Rebase instead of merge?
+### Why rebase instead of merge?
 
 While working collaboratively, it's essential to maintain a clear and concise version history. Branches keep work independent. Writers work on branches independently. Eventually, you will integrate changes to the main branch. This is where rebasing becomes a valuable technique.
 
 While merging preserves the branching structure and shows how changes from different branches came together, rebasing takes a different approach. Instead of combining branches with a merge commit, rebasing reapplies your changes on top of the updated main branch, resulting in a linear history.
 
-### linear commit history
+### Linear commit history
 
 Most compelling reasons to use rebase is to maintain a clean and linear commit history. In documentation projects, where updates can happen frequently and involve multiple contributors, a series of merge commits can more quick clutter the project history.
 
